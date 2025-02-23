@@ -1,0 +1,10 @@
+.d1:hover{
+    color:orangered; 
+    font-weight: bold;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    }
+    .d2:hover{
+        color: rgb(231, 22, 71);
+        font-weight: bold;
+    }
+    
