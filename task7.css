@@ -1,0 +1,18 @@
+*{
+    background-color: rgb(202, 179, 137);
+    color: rgb(63, 48, 15);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align-content: center;
+    text-align: center;
+    line-height: 30px;
+}
+p{
+    color: red;
+}
+h1{
+    color: black;
+   text-decoration: underline;
+}
+textarea{
+    color: rgb(0,0,0);
+}
