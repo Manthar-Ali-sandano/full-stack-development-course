@@ -1,0 +1,33 @@
+*{
+    text-align: center;
+    font-family: Georgia;
+    background-color: rgb(234, 239, 249);
+    font-weight: bold;
+    font-size: 30px;
+}
+#mntpc{
+    color:rgb(255, 0, 140) ;
+}
+#p1{
+    color: rgb(17, 2, 2);
+}
+div button{
+background-color: rgb(255, 0, 140) ;
+text-shadow: 20px;
+}
+button{
+    border-radius: 9000px;
+}
+button:hover{
+    background-color:black ;
+    color: rgb(255, 0, 140);
+}
+h1::first-letter{
+    color: rgb(225, 176, 29);
+}
+label{
+    color: rgb(255, 0, 140);
+}
+input[type="checkbox"]:checked + label[for="yes"] {
+    color: darkgreen;
+  }

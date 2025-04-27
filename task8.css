@@ -1,0 +1,61 @@
+ h1{
+    color:#cb4b10;;
+}
+#lgn{
+    font-weight: bold;
+    color: white;
+    background-color:rgb(56, 186, 75);
+}
+#lgn:hover{
+    background-color: white;
+    color: rgb(56, 186, 75);
+}
+#snp:hover{
+    color:white;
+    background-color: rgb(56, 186, 75);
+    transition: all 0.3s ease-out;;
+    
+}
+
+#snp{
+    
+    font-weight: bold;
+    color:rgb(56, 186, 75);
+    background-color: #ffffff;
+
+}
+li,a{
+    text-decoration: none;
+}
+button{
+    color: white;
+    background-color:rgb(56, 186, 75);
+    
+}
+button:hover{
+    background-color: white;
+    color:rgb(56, 186, 75);   
+}
+body{
+    font-family: system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+}
+a:hover{
+ color: #cb4b10;;
+}
+button:active{
+    background-color: rgb(1, 31, 12);
+}
+p:active{
+ font-weight: bolder;
+ color:  rgb(56, 186, 75);;
+}
+input[type="radio"]:checked+label{
+    color:rgb(56, 186, 75);
+    font-weight: bolder;    
+}
+h3::selection{
+    color: #cb4b10;
+}
+body{
+    background-color: rgb(249, 254, 255);
+} 
