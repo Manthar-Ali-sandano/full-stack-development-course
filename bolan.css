@@ -1,0 +1,26 @@
+#p{
+    background-color: #3D365C;
+}
+ul li{
+    color:#03000e ;
+}
+pre+ul{
+    background-color: #C95792;
+}
+/* 
+div[id="input"]~a{
+    background-color: tomato;
+} */
+div[id="input"] ~ a {
+    background-color: tomato;
+  }
+/* div[id="input"]~a {
+    background-color: tomato;
+  } */
+input{
+    padding: 8px 20px 8px ;
+}
+input:focus{
+    border: 10px solid green;
+     outline: none;    
+}
